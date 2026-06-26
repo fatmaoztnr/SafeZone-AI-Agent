@@ -25,4 +25,4 @@ Güvenli-Alan AI, endüstriyel alanlardaki güvenlik kamerası görüntülerini 
 - Endüstriyel Tesis Denetmenleri
 
 ### Product Backlog URL
-[Miro/Trello Board Linki Buraya Eklenecek]
+[https://miro.com/app/live-embed/uXjVHBCHpS0=/?embedMode=view_only_without_ui&moveToViewport=-464%2C1%2C2165%2C1040&embedId=171410733667]
